@@ -23,7 +23,7 @@ list_of_files = [
     "setup.py",
     "setup.cfg",
     "pyproject.toml",
-    "tox.init",
+    "tox.ini",
     "exprements/experements.ipynb",
     "src/logger/logging.py",
     "src/exception/exception.py"
