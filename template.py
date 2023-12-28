@@ -1,5 +1,6 @@
 import os 
 from pathlib import Path 
+import logging 
 
 list_of_files = [
     ".github/workflows/.gitkeep",
