@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/55888a524e124abab198707d6187eea8/artifacts
+end_time: 1707113522237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55888a524e124abab198707d6187eea8
+run_name: casual-wasp-764
+run_uuid: 55888a524e124abab198707d6187eea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707113519200
+status: 3
+tags: []
+user_id: abc

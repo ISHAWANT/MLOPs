@@ -31,7 +31,7 @@ class ModelEvaluation:
 
             logging.info("Model has register") 
 
-            tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).schema 
+            tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme 
 
             print(tracking_url_type_store) 
 
